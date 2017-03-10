@@ -17,7 +17,4 @@ Build the business logic for a game of tic tac toe. It should be easy to impleme
 Understanding the domain via diagramming, I make the decision to have game play via REPL for MVP, with a fixed 3 x 3 grid.
 The focus has to be to resolve the check for a win logic, the relationships between the "Field" objects which make a "Grid".
 
-[Object Model](https://)
-
-
-
+[Object Model](https://https://github.com/olwend/tic_tac_toe/blob/master/tictactoe.png)
